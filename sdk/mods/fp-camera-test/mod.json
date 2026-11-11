@@ -1,1 +1,10 @@
 
+{
+  "id": "fp-camera-test",
+  "name": "FP Camera Test",
+  "version": "1.0",
+  "author": "Крутой котик",
+  "description": "Проверка классов камеры и игрока",
+  "libs": ["libs/arm64-v8a/libfpcameratest.so"]
+}
+
